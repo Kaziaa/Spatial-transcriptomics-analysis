@@ -1,2 +1,2 @@
 # Spatial-transcriptomics-analysis
-# In this repository I will analyzes upload genomics data analysis along with tutorials.
+# In this repository I will analyzes u genomics data analysis along with different tutorials.
